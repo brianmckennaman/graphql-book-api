@@ -17,7 +17,7 @@ const resolvers = {
 
     Mutation: {
         login: async (parent, { email, password }) => {
-            const user = await user.findOne({email});
+            const user = await User.findOne({email});
             if(!user) {
                 throw new AuthenticationError('Incorrect login information, please try again')
             }
