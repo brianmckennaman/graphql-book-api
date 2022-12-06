@@ -29,6 +29,7 @@ const client = new ApolloClient({
 });
 
 function App() {
+  console.log(client)
   return (
     <ApolloProvider client={client}>
     <Router>
