@@ -8,6 +8,7 @@ This involved adding a resolvers.js and typeDefs.js file into the schemas direct
 
 After, I refactored and simplified the submitForm functions to utlize GraphQl syntax, then deployed the app via Heroku.
 
-A screenshot of the finished app can be found here: 
+A link to the deployed application on Heroku can be found here: https://brians-google-books-api.herokuapp.com/
 
-A link to the deployed application on Heroku can be found here: 
+A screenshot of the finished app can be found here: ![Screenshot (27)](https://user-images.githubusercontent.com/107509704/206019787-b2649365-ae8c-4325-8bad-a6c0f44acfbf.png)
+
