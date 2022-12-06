@@ -6,7 +6,7 @@ First, I cloned the starter code from the original repo, then began work on refa
 
 This involved adding a resolvers.js and typeDefs.js file into the schemas directory on the server side, adding a mutations.js and queries.js file into the utils directory on the client side.
 
-After, I refactored and simplified the submitForm functions to utlize GraphQl syntax, then deployed the app via Heroku.
+After, I refactored and simplified the submitForm functions to utlize GraphQl syntax, connected to MongoDB Atlas, then deployed the app via Heroku.
 
 A link to the deployed application on Heroku can be found here: https://brians-google-books-api.herokuapp.com/
 
